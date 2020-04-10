@@ -1,5 +1,5 @@
 # WWZHunter
-![Image text](https://github.com/FeJQ/WWZHunter/blob/master/GUI.png
+![Image text](https://github.com/FeJQ/WWZHunter/blob/master/GUI.png)
 
 1.功能说明:
 ①开启"人物位移后",
