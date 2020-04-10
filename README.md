@@ -1,13 +1,7 @@
 # WWZHunter
-![Image text](https://github.com/FeJQ/WWZHunter/blob/master/GUI.png)
+![Image text](https://github.com/FeJQ/WWZHunter/blob/master/GUI.png
 
-1.数据取自"幕后煮屎人"上传的CT文件,感谢他的无私奉献.本人只是将数据包装了一层,无甚功德
-
-2.软件完全免费,无需登录,无广告,无捆绑.
-
-3.软件的初衷在于供单机PVE娱乐,请不要用于PVP,破坏他人游戏体验
-
-4.功能说明:
+1.功能说明:
 ①开启"人物位移后",
 Insert:记录坐标
 Delete:瞬移到记录的坐标
@@ -21,9 +15,9 @@ PageDown:遁地
 ③无限子弹功能请尽量在一局游戏结束前关闭,下一局再开,否则有几率使游戏崩溃,以后会修复.
 
 
-5.务必以管理员身份运行程序,否则会找不到游戏进程.当右上角的指示灯为绿色时,标识已检测到游戏进程.
+2.务必以管理员身份运行程序,否则会找不到游戏进程.当右上角的指示灯为绿色时,标识已检测到游戏进程.
 
 项目地址:https://github.com/FeJQ/WWZHunter
-最后,再次感谢"幕后煮屎人"以及群内的hxdm
+感谢"幕后煮屎人"以及群内的hxdm帮助
 
 作者:FeJQ
