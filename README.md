@@ -18,6 +18,5 @@ PageDown:遁地
 2.务必以管理员身份运行程序,否则会找不到游戏进程.当右上角的指示灯为绿色时,标识已检测到游戏进程.
 
 项目地址:https://github.com/FeJQ/WWZHunter
-感谢"幕后煮屎人"以及群内的hxdm帮助
 
 作者:FeJQ
